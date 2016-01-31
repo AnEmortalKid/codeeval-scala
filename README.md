@@ -2,4 +2,5 @@
 A scala repository for my codeeval solutions
 
 # Easy
-fizzbuzz
+- fizzbuzz
+- prime palindrome
