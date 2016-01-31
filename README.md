@@ -5,6 +5,7 @@ A scala repository for my codeeval solutions
 - fizzbuzz
 - prime palindrome
 - sum of primes
+- reverse words
 
 # Moderate
 
