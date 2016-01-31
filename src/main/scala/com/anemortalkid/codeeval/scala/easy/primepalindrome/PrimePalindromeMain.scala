@@ -1,5 +1,5 @@
-package com.anemortalkid.codeeval.scala.easy.primepalindrome
+package main.scala.com.anemortalkid.codeeval.scala.easy.primepalindrome
 
 object PrimePalindromeMain extends App {
-  print("929")
+    print("929")
 }

@@ -1,12 +1,9 @@
-package com.anemortalkid.codeeval.scala.easy.fizzbuzz
+package main.scala.com.anemortalkid.codeeval.scala.easy.fizzbuzz
 
 import scala.io.Source;
 
-/**
- * a fizzbuzz solution in scala for codeeval
- */
 object FizzBuzzMain extends App {
-    for(line <- Source.fromFile(args(0)).getLines())
+   for(line <- Source.fromFile(args(0)).getLines())
     {
       val values = line.split(" ");
       val x = values(0).toInt
@@ -27,5 +24,4 @@ object FizzBuzzMain extends App {
       }
       print("\n")
     }
-  
 }
