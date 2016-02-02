@@ -6,6 +6,7 @@ A scala repository for my codeeval solutions
 - prime palindrome
 - sum of primes
 - reverse words
+- multiples
 
 # Moderate
 
